@@ -1,0 +1,17 @@
+---
+title: "2014 Tesla Model S"
+make: Tesla
+model: Model S
+year: 2014
+engine-fuel-type: electric
+engine-hp: 
+engine-cylinders: 0
+transmission-type: DIRECT_DRIVE
+driven-wheels: Rear wheel drive
+number-of-doors: 4
+market-category: Exotic,Performance
+vehicle-size: Large
+vehicle-style: Sedan
+---
+
+{{< car_info >}}

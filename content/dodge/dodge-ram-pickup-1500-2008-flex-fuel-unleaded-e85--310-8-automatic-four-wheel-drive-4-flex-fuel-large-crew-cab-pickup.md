@@ -1,0 +1,17 @@
+---
+title: "2008 Dodge Ram Pickup 1500"
+make: Dodge
+model: Ram Pickup 1500
+year: 2008
+engine-fuel-type: flex-fuel (unleaded/E85)
+engine-hp: 310
+engine-cylinders: 8
+transmission-type: Automatic
+driven-wheels: four wheel drive
+number-of-doors: 4
+market-category: Flex Fuel
+vehicle-size: Large
+vehicle-style: Crew Cab Pickup
+---
+
+{{< car_info >}}

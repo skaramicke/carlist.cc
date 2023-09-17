@@ -1,0 +1,17 @@
+---
+title: "2017 Nissan Armada"
+make: Nissan
+model: Armada
+year: 2017
+engine-fuel-type: regular unleaded
+engine-hp: 390
+engine-cylinders: 8
+transmission-type: Automatic
+driven-wheels: four wheel drive
+number-of-doors: 4
+market-category: N/A
+vehicle-size: Large
+vehicle-style: 4dr SUV
+---
+
+{{< car_info >}}

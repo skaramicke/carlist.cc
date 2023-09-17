@@ -1,0 +1,17 @@
+---
+title: "2009 Pontiac G6"
+make: Pontiac
+model: G6
+year: 2009
+engine-fuel-type: regular unleaded
+engine-hp: 164
+engine-cylinders: 4
+transmission-type: Automatic
+driven-wheels: Front wheel drive
+number-of-doors: 2
+market-category: N/A
+vehicle-size: Midsize
+vehicle-style: Coupe
+---
+
+{{< car_info >}}

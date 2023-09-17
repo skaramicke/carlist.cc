@@ -1,0 +1,17 @@
+---
+title: "1994 Mazda Navajo"
+make: Mazda
+model: Navajo
+year: 1994
+engine-fuel-type: regular unleaded
+engine-hp: 160
+engine-cylinders: 6
+transmission-type: Manual
+driven-wheels: Rear wheel drive
+number-of-doors: 2
+market-category: N/A
+vehicle-size: Compact
+vehicle-style: 2dr SUV
+---
+
+{{< car_info >}}

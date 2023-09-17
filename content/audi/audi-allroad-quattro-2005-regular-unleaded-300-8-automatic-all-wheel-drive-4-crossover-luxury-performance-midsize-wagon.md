@@ -1,0 +1,17 @@
+---
+title: "2005 Audi allroad quattro"
+make: Audi
+model: allroad quattro
+year: 2005
+engine-fuel-type: regular unleaded
+engine-hp: 300
+engine-cylinders: 8
+transmission-type: Automatic
+driven-wheels: all wheel drive
+number-of-doors: 4
+market-category: Crossover,Luxury,Performance
+vehicle-size: Midsize
+vehicle-style: Wagon
+---
+
+{{< car_info >}}

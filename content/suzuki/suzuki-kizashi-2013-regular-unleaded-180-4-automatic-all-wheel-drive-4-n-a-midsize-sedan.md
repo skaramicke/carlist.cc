@@ -1,0 +1,17 @@
+---
+title: "2013 Suzuki Kizashi"
+make: Suzuki
+model: Kizashi
+year: 2013
+engine-fuel-type: regular unleaded
+engine-hp: 180
+engine-cylinders: 4
+transmission-type: Automatic
+driven-wheels: all wheel drive
+number-of-doors: 4
+market-category: N/A
+vehicle-size: Midsize
+vehicle-style: Sedan
+---
+
+{{< car_info >}}

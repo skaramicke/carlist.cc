@@ -1,0 +1,17 @@
+---
+title: "2006 Chrysler Crossfire"
+make: Chrysler
+model: Crossfire
+year: 2006
+engine-fuel-type: premium unleaded (required)
+engine-hp: 215
+engine-cylinders: 6
+transmission-type: Manual
+driven-wheels: Rear wheel drive
+number-of-doors: 2
+market-category: Performance
+vehicle-size: Compact
+vehicle-style: Coupe
+---
+
+{{< car_info >}}

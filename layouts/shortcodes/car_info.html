@@ -1,0 +1,13 @@
+{{ $params := .Page.Params }}
+
+<div class="car-info">
+  <ul>
+    {{ range $key, $value := $params }} {{ if and (ne $key "iscjklanguage") (ne
+    $key "draft") (ne $key "title") }} {{ $keyTitle := humanize $key }}
+    <li>
+      <strong>{{ $keyTitle }}:</strong>
+      <span data-pagefind-filter="{{ $key }}">{{ $value }}</span>
+    </li>
+    {{ end }} {{ end }}
+  </ul>
+</div>

@@ -1,0 +1,17 @@
+---
+title: "2015 Volvo V60"
+make: Volvo
+model: V60
+year: 2015
+engine-fuel-type: regular unleaded
+engine-hp: 240
+engine-cylinders: 4
+transmission-type: Automatic
+driven-wheels: Front wheel drive
+number-of-doors: 4
+market-category: Luxury
+vehicle-size: Midsize
+vehicle-style: Wagon
+---
+
+{{< car_info >}}
